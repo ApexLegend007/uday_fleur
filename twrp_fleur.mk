@@ -31,8 +31,8 @@ $(call inherit-product, vendor/omni/config/gsm.mk)
 
 # Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := fleur
-PRODUCT_NAME := omni_fleur
+PRODUCT_NAME := twrp_fleur
 PRODUCT_BRAND := Redmi
-PRODUCT_MODEL := Redmi
+PRODUCT_MODEL := Poco M4 Pro
 PRODUCT_MANUFACTURER := xiaomi
-PRODUCT_RELEASE_NAME := Redmi Redmi
+PRODUCT_RELEASE_NAME := Redmi
